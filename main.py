@@ -1,0 +1,1 @@
+print("Restoran Stok ve Operasyon Yönetim Sistemi")
